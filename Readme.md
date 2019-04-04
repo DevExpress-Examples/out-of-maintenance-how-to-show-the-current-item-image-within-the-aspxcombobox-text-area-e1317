@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/WebApplication156/Default.aspx) (VB: [Default.aspx.vb](./VB/WebApplication156/Default.aspx.vb))
+* [Default.aspx](./CS/WebApplication156/Default.aspx) (VB: [Default.aspx](./VB/WebApplication156/Default.aspx))
 * [Default.aspx.cs](./CS/WebApplication156/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication156/Default.aspx.vb))
 <!-- default file list end -->
 # How to show the current item image within the ASPxComboBox text area
