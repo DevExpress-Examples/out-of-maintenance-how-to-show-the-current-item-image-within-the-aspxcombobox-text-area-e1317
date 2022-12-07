@@ -8,7 +8,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 namespace WebApplication156
 {
@@ -27,7 +27,7 @@ namespace WebApplication156
             if (cb.SelectedItem != null)
             {
                 cb.BackgroundImage.ImageUrl = cb.SelectedItem.ImageUrl;
-                cb.BackgroundImage.Repeat = DevExpress.Web.ASPxClasses.BackgroundImageRepeat.NoRepeat;
+                cb.BackgroundImage.Repeat = DevExpress.Web.BackgroundImageRepeat.NoRepeat;
                 cb.BackgroundImage.HorizontalPosition = "2px";
                 cb.BackgroundImage.VerticalPosition = "50%";
             }

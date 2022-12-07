@@ -38,7 +38,7 @@ Namespace WebApplication156
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected cmbRating As Global.DevExpress.Web.ASPxEditors.ASPxComboBox
+		Protected cmbRating As Global.DevExpress.Web.ASPxComboBox
 
 		''' <summary>
 		''' ASPxButton1 control.
@@ -47,6 +47,6 @@ Namespace WebApplication156
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxButton1 As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected ASPxButton1 As Global.DevExpress.Web.ASPxButton
 	End Class
 End Namespace
